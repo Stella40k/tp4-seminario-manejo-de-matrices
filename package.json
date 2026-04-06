@@ -1,0 +1,24 @@
+{
+  "name": "tp4-seminario-manejo-de-matrices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stella40k/tp4-seminario-manejo-de-matrices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Stella40k/tp4-seminario-manejo-de-matrices/issues"
+  },
+  "homepage": "https://github.com/Stella40k/tp4-seminario-manejo-de-matrices#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
